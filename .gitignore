@@ -1,0 +1,8 @@
+.idea
+*iml
+.gradle
+build/
+out/
+*.class
+gradle.properties
+times.csv
